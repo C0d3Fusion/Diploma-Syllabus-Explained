@@ -4,7 +4,7 @@ This repository contains the **Chemistry Syllabus** for **RGPV Diploma First Sem
 
 ## 📚 **Syllabus Topics**
 
-### **[Unit 1: Atomic Structure, Chemical Bonding, and Solutions](./Unit1.md)**
+### **[Unit 1: Atomic Structure, Chemical Bonding, and Solutions](./Chemistry/Unit1.md)**
 - Topics include Rutherford model of atom, Bohr’s theory, hydrogen spectrum, chemical bonding (ionic, covalent, coordination, metallic), solution concentration methods, and more.
 
 ### **[Unit 2: Water](./Unit2.md)**
