@@ -1,52 +1,27 @@
-
 # RGPV Diploma First Year - Semester 1 Chemistry Syllabus
 
-This repository contains the complete syllabus for **Chemistry** for the first semester of the Diploma course under **RGPV**. Below is the list of chapters covered in the syllabus with links to detailed topics in separate files.
+This repository contains the **Chemistry Syllabus** for **RGPV Diploma First Semester**. Below is the list of units covered in the syllabus, with links to detailed files for each unit.
 
 ## 📚 **Syllabus Topics**
 
-### **1. Atomic Structure and Bonding**
-- [Atomic Models and Theories](./Atomic_Structure_Models.md)
-- [Types of Chemical Bonds](./Chemical_Bonds.md)
-- [Orbital Theory](./Orbital_Theory.md)
+### **[Unit 1: Atomic Structure, Chemical Bonding, and Solutions](./Unit1.md)**
+- Topics include Rutherford model of atom, Bohr’s theory, hydrogen spectrum, chemical bonding (ionic, covalent, coordination, metallic), solution concentration methods, and more.
 
-### **2. Chemical Kinetics**
-- [Rate of Reactions](./Rate_of_Reactions.md)
-- [Factors Affecting Reaction Rate](./Factors_Affecting_Rate.md)
-- [Activation Energy](./Activation_Energy.md)
+### **[Unit 2: Water](./Unit2.md)**
+- Topics include water distribution on Earth, water hardness, problems caused by hard water, water softening techniques, municipal water treatment, and Indian standards for drinking water.
 
-### **3. Thermodynamics**
-- [Laws of Thermodynamics](./Laws_of_Thermodynamics.md)
-- [Heat and Work](./Heat_and_Work.md)
-- [Entropy and Enthalpy](./Entropy_Enthalpy.md)
+### **[Unit 3: Engineering Materials](./Unit3.md)**
+- Topics cover the natural occurrence of metals, extraction of iron and aluminum, alloys, Portland cement, polymers, vulcanization of rubber, and more.
 
-### **4. Gaseous State**
-- [Gas Laws](./Gas_Laws.md)
-- [Ideal and Real Gases](./Ideal_Real_Gases.md)
-- [Kinetic Theory of Gases](./Kinetic_Theory.md)
+### **[Unit 4: Chemistry of Fuels and Lubricants](./Unit4.md)**
+- Topics include classification of fuels, calorific values, fuel rating, lubrication mechanisms, and properties of lubricants.
 
-### **5. Electrochemistry**
-- [Electrochemical Cells](./Electrochemical_Cells.md)
-- [Electrode Potentials](./Electrode_Potentials.md)
-- [Applications of Electrochemistry](./Applications_Electrochemistry.md)
-
-### **6. Surface Chemistry**
-- [Adsorption](./Adsorption.md)
-- [Catalysis](./Catalysis.md)
-- [Colloids](./Colloids.md)
-
-### **7. Periodic Table and Periodicity of Elements**
-- [Modern Periodic Table](./Modern_Periodic_Table.md)
-- [Periodic Properties](./Periodic_Properties.md)
-
-### **8. Chemical Bonding and Molecular Structure**
-- [Ionic Bonding](./Ionic_Bonding.md)
-- [Covalent Bonding](./Covalent_Bonding.md)
-- [Hybridization](./Hybridization.md)
+### **[Unit 5: Electro Chemistry](./Unit5.md)**
+- Topics cover oxidation and reduction reactions, Faraday’s laws of electrolysis, applications of electrolysis, electrochemical cells, corrosion, and prevention methods.
 
 ## 📥 How to Use
-- Click on any chapter link to view detailed topics in the respective files.
-- You can easily navigate between chapters to explore the full syllabus.
+1. Click on any unit name to view the detailed syllabus for that unit.
+2. Each file will contain the topics and further details for the unit.
 
 ## 🛠️ Contributing
-Feel free to suggest improvements or add missing topics via pull requests.
+Feel free to contribute by opening issues or creating pull requests to add missing topics or improve the content.
