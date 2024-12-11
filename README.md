@@ -8,7 +8,7 @@ This repository contains the syllabus for the first year of the Diploma course u
 - **Organic Chemistry**: Hydrocarbons, functional groups, isomerism, reactions of organic compounds.
 - **Inorganic Chemistry**: Transition elements, coordination compounds, metallurgy, and extraction of metals.
 
-### **Physics**
+### [**Physics**](./Physics.md)
 - **Mechanics**: Laws of motion, work, energy, and power, motion in a straight line, circular motion.
 - **Thermodynamics**: Laws of thermodynamics, heat transfer, engines, and refrigerators.
 - **Electromagnetism**: Electric fields, magnetic fields, current, and circuits.
