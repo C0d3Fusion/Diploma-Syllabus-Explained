@@ -3,7 +3,7 @@
 This repository contains the syllabus for the first year of the Diploma course under **RGPV** (Rajiv Gandhi Proudyogiki Vishwavidyalaya), specifically for **Chemistry**, **Physics**, and **Mathematics**. The purpose of this repository is to provide a clear, organized structure for students to easily access and refer to their syllabus.
 
 ## 📚 Contents
-### [**Chemistry**](./Chemistry)
+### [**Chemistry**](./Chemistry.md)
 - **General Chemistry**: Atomic structure, chemical bonding, periodic table, acids, bases, salts.
 - **Organic Chemistry**: Hydrocarbons, functional groups, isomerism, reactions of organic compounds.
 - **Inorganic Chemistry**: Transition elements, coordination compounds, metallurgy, and extraction of metals.
