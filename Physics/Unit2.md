@@ -70,9 +70,6 @@ Vectors can be represented graphically or using **Cartesian coordinates** (i, j,
 
 - **Lawn Roller**: In a lawn roller, the force applied to the roller can be resolved into horizontal and vertical components. This allows us to understand the pressure exerted on the ground and the motion of the roller.
 
-# **RGPV Diploma First Year - Semester 1 Physics Syllabus**
-
-This repository contains the **Physics Syllabus** for **RGPV Diploma First Semester**. Below is the list of topics covered in the syllabus, with detailed explanations and links to files for each topic.
 
 ## 📚 **Syllabus Topics**
 
