@@ -28,7 +28,7 @@ This repository contains the syllabus for the first year of the Diploma course u
 ## 📥 How to Use
 1. Clone this repository to your local machine using:
     ```
-    git clone https://github.com/yourusername/diploma-first-year-syllabus.git
+    git clone https://github.com/C0d3Fusion/Diploma-Syllabus-Explained.git
     ```
 2. Navigate to the subject folder to access the syllabus files.
 
