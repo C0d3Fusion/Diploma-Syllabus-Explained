@@ -25,12 +25,9 @@ This repository contains the syllabus for the first year of the Diploma course u
 - Organized by subject and specific topics.
 - Easy navigation for quick access.
 
-## 📥 How to Use
-1. Clone this repository to your local machine using:
-    ```
-    git clone https://github.com/C0d3Fusion/Diploma-Syllabus-Explained.git
-    ```
-2. Navigate to the subject folder to access the syllabus files.
+---
 
-## 💬 Contributing
-Feel free to contribute by opening issues for any missing topics or creating pull requests to improve the content.
+## 💻 Credits
+This repository was created by **Satyam Yadav**.  
+Connect with him on [Instagram](https://www.instagram.com/_satyam.ydv?igsh=bWF2Z2p1dGFxY2x5).  
+Special thanks to Google and GPT-4 for providing valuable resources and tools.
