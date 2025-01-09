@@ -1,218 +1,224 @@
-# Unit 5: Properties of Matter
+# Elasticity
 
-## Elasticity
+## Definition of Stress and Strain
 
-Elasticity ek material ki wo property hoti hai jo usse apne original shape aur size mein wapas aane ki ability deti hai jab uspe external force apply hoti hai. Jab kisi material pe stress apply hota hai, toh wo strain create karta hai. 
+- **Stress** is the force applied per unit area within materials, leading to deformation. It is a measure of the internal forces in a material.
+  - Formula: **Stress = Force / Area**
+  - Units: N/m² or Pascal (Pa)
+  - Types of Stress: 
+    1. **Tensile Stress**: Force applied to stretch an object.
+    2. **Compressive Stress**: Force applied to compress an object.
+    3. **Shear Stress**: Force applied parallel to the surface of the object.
 
-### Stress and Strain
+- **Strain** is the deformation caused by the applied stress, which is the change in shape or size of the object.
+  - Formula: **Strain = Change in Length / Original Length**
+  - It is a dimensionless quantity.
+  - Types of Strain: 
+    1. **Tensile Strain**: Elongation or stretching of an object.
+    2. **Compressive Strain**: Compression or shortening of an object.
+    3. **Shear Strain**: Deformation due to shearing force.
 
-- **Stress**: Stress force per unit area ko kehate hain. Jab bhi koi external force object par lagti hai, usse stress produce hota hai. Stress ko do types mein classify kiya jata hai:
-  - **Tensile Stress**: Jab force object ko stretch karne ke liye lagti hai.
-  - **Compressive Stress**: Jab force object ko compress karne ke liye lagti hai.
-  
-  - Formula for Stress:
-  
-\[
-  \sigma = \frac{F}{A}
-\]
-  
-  Jahan:
-  - \sigma is the stress,
-  - F is the applied force,
-  - A is the cross-sectional area.
+---
 
-- **Strain**: Strain, stress ke response mein object mein hone wali dimensional change ko kehate hain. Ye dimensionless quantity hoti hai.
+## Moduli of Elasticity
 
-  - Formula for Strain:
-  
-\[
-  \varepsilon = \frac{\Delta L}{L}
-\]
-  
-  Jahan:
-  - \varepsilon is the strain,
-  - \Delta L is the change in length,
-  - L is the original length.
+- **Young's Modulus (E)**: It measures the stiffness of a material under tensile stress. It is defined as the ratio of tensile stress to tensile strain.
+  - Formula: **E = Stress / Strain**
+  - Unit: Pascal (Pa)
 
-### Modulus of Elasticity
+- **Bulk Modulus (K)**: It measures the material’s response to uniform compression. It is the ratio of compressive stress to the resulting decrease in volume.
+  - Formula: **K = - (Pressure change / Fractional volume change)**
 
-- **Young's Modulus**: Ye material ki stiffness ko define karta hai. Ye tensile stress aur tensile strain ka ratio hota hai.
+- **Shear Modulus (G)**: It measures the material’s response to shear stress (force applied tangentially to the surface).
+  - Formula: **G = Shear Stress / Shear Strain**
 
-  - Formula for Young's Modulus:
-  
-\[
-  Y = \frac{\sigma}{\varepsilon} = \frac{F / A}{\Delta L / L}
-\]
+---
 
-- **Bulk Modulus**: Bulk modulus us property ko define karta hai jo material ko volume change resist karne ki ability deti hai jab uspar compressive stress lagta hai.
+## Hooke’s Law
 
-  - Formula for Bulk Modulus:
-  
-\[
-  B = -\frac{P \cdot V}{\Delta V}
-\]
-  
-  Jahan:
-  - P is the applied pressure,
-  - V is the initial volume,
-  - \Delta V is the change in volume.
+- **Hooke's Law** states that the strain in a solid material is directly proportional to the applied stress within the elastic limit of the material.
+  - Formula: **Stress = k × Strain**, where **k** is the proportionality constant.
+  - This law holds true for small deformations (elastic region).
 
-- **Shear Modulus**: Ye material ki shear deformation resist karne ki ability ko define karta hai.
+---
 
-  - Formula for Shear Modulus:
-  
-\[
-  G = \frac{F/A}{\Delta x / L}
-\]
-  
-  Jahan:
-  - G is the shear modulus,
-  - F/A is the shear stress,
-  - \Delta x / L is the shear strain.
+## Significance of Stress-Strain Curve
 
-### Hooke's Law
+- The **Stress-Strain Curve** shows the relationship between stress and strain for a material under load. It helps in understanding the material’s elastic behavior.
+- The curve typically includes the following regions:
+  - **Proportional Limit**: Where Hooke’s Law applies.
+  - **Elastic Limit**: Beyond which the material will not return to its original shape.
+  - **Yield Point**: The point where permanent deformation begins.
+  - **Ultimate Strength**: Maximum stress the material can withstand.
+  - **Fracture Point**: The point at which the material breaks.
 
-Hooke’s Law kehta hai ki kisi material par applied stress proportional hota hai strain ke. Jab tak elastic limit ke andar stress apply hota hai, tab tak material return apne original shape mein aa jata hai.
+---
 
-- Formula for Hooke's Law:
-  
-\[
-  \sigma = E \varepsilon
-\]
-  
-  Jahan:
-  - \sigma is stress,
-  - E is the modulus of elasticity (Young's modulus),
-  - \varepsilon is strain.
+# Pressure
 
-### Stress-Strain Curve
+## Definition and Units
 
-Stress-strain curve ek graphical representation hota hai jo material ke stress aur strain ke relationship ko dikhata hai. Isme kuch important points hote hain:
-1. **Proportional Limit**: Yahan tak stress aur strain directly proportional hote hain.
-2. **Elastic Limit**: Yahan tak material apne original shape mein wapas aa jata hai.
-3. **Yield Point**: Yahan se material permanent deformation ke liye ready ho jata hai.
-4. **Breaking Point**: Yahan material fracture ho jata hai.
+- **Pressure** is defined as the force exerted per unit area.
+  - Formula: **Pressure = Force / Area**
+  - Units: Pascal (Pa) or N/m²
 
-## Pressure
+---
 
-- **Pressure**: Pressure force per unit area hota hai. Jab koi object kisi surface par force apply karta hai, toh surface pe pressure develop hota hai.
+## Types of Pressure
 
-  - Formula for Pressure:
-  
-\[
-  P = \frac{F}{A}
-\]
-  
-  Jahan:
-  - P is pressure,
-  - F is the applied force,
-  - A is the area of contact.
+- **Atmospheric Pressure**: The pressure exerted by the weight of the atmosphere on an object.
+  - Average atmospheric pressure at sea level: **1 atm = 101,325 Pa**.
 
-- **Atmospheric Pressure**: Ye wo pressure hota hai jo earth ki atmosphere ne surface par apply karta hai. Iska value approximately 1 atmosphere (1 atm) hai, jo 101.3 kPa ke barabar hota hai.
+- **Gauge Pressure**: The pressure relative to atmospheric pressure. It does not include atmospheric pressure in its calculation.
+  - **Gauge Pressure = Absolute Pressure - Atmospheric Pressure**
 
-- **Gauge Pressure**: Ye pressure hota hai jo atmospheric pressure se measured hota hai. Agar gauge pressure positive hai, toh actual pressure atmospheric pressure se zyada hai.
+- **Absolute Pressure**: The total pressure exerted by the fluid, including atmospheric pressure.
+  - **Absolute Pressure = Gauge Pressure + Atmospheric Pressure**
 
-- **Absolute Pressure**: Absolute pressure atmospheric pressure ko include karta hai.
+---
 
-### Fortin’s Barometer
+## Fortin’s Barometer and Its Applications
 
-Fortin’s Barometer ek instrument hota hai jo atmospheric pressure ko measure karta hai. Isme mercury column hota hai jo pressure ke variation ke saath move karta hai.
+- **Fortin’s Barometer** is an instrument used to measure atmospheric pressure.
+  - It consists of a glass tube filled with mercury, inverted in a dish of mercury.
+  - The height of the mercury column gives the atmospheric pressure.
+  - Applications: Weather forecasting, determining altitude, scientific research.
 
-## Surface Tension
+---
 
-Surface tension ek liquid ki wo property hoti hai jo uske surface ko contract karne ki ability deti hai, jaise ek elastic membrane. Surface tension liquid molecules ke beech attractive forces ki wajah se hoti hai.
+# Surface Tension
 
-### Cohesive and Adhesive Forces
+## Concept
 
-- **Cohesive Forces**: Ye wo forces hoti hain jo ek liquid ke molecules ko apas mein attract karti hain.
-- **Adhesive Forces**: Ye wo forces hoti hain jo liquid molecules ko surface ke molecules se attract karti hain.
+- **Surface Tension** is the force that causes the surface of a liquid to behave like a stretched elastic membrane. It is the result of cohesive forces between molecules in the liquid.
+  - Units: N/m
 
-### Angle of Contact
+## Cohesive and Adhesive Forces
 
-Angle of contact wo angle hota hai jo liquid surface aur solid surface ke beech banata hai. Agar angle less than 90° hai, toh liquid ka tendency hai ki wo surface ko wet kare. Agar angle greater than 90° hai, toh liquid ka tendency hai ki wo surface ko dry kare.
+- **Cohesive Forces**: The attractive forces between like molecules (e.g., water molecules attracting each other).
+- **Adhesive Forces**: The attractive forces between unlike molecules (e.g., water molecules attracting to the surface of glass).
 
-### Ascent Formula
+---
 
-Ascent formula liquid ke capillary tube mein upar chadhne ka height calculate karta hai. Ye surface tension, density aur tube ki radius par depend karta hai.
+## Angle of Contact
 
-- Formula for Ascent in Capillary Tube:
-  
-\[
-  h = \frac{2T \cos \theta}{r \rho g}
-\]
-  
-  Jahan:
-  - h is the height ascended,
-  - T is surface tension,
-  - \theta is the angle of contact,
-  - r is the radius of the tube,
-  - \rho is the density of liquid,
-  - g is acceleration due to gravity.
+- **Angle of Contact** (also called contact angle) is the angle formed between the liquid surface and the solid surface where the liquid touches the solid.
+  - It depends on the cohesive and adhesive forces acting between the liquid and the solid.
 
-## Viscosity and Coefficient of Viscosity
+---
 
-- **Viscosity**: Viscosity ek liquid ya gas ki resistance hoti hai jo uske flow ke against hoti hai. Zyada viscosity ka matlab hota hai ki fluid thick hai, jaise honey ya glycerine.
+## Ascent Formula (No Derivation)
 
-- **Coefficient of Viscosity**: Ye wo constant hota hai jo viscosity ko quantify karta hai. Iska unit **Pa.s (Pascal second)** hota hai.
+- **Ascent Formula** (Capillary Rise): The rise of liquid in a capillary tube due to surface tension.
+  - Formula: **h = (2Tcosθ) / (ρgr)**, where:
+    - **T** = Surface tension
+    - **θ** = Angle of contact
+    - **ρ** = Density of the liquid
+    - **g** = Gravitational acceleration
+    - **r** = Radius of the capillary tube
+    - **h** = Height of liquid rise
 
-### Terminal Velocity
+---
 
-Jab koi object ek fluid mein fall karta hai aur gravity aur drag force ke equal ho jata hai, toh object constant velocity se fall karta hai, jo terminal velocity kehlata hai.
+## Applications of Surface Tension
 
-### Stoke’s Law
+- **Formation of drops**: Water forms spherical droplets due to surface tension.
+- **Capillary action**: Water rises in thin tubes due to surface tension.
+- **Detergents**: Surface tension is reduced, making cleaning easier.
+- **Insects walking on water**: Small insects can walk on water due to surface tension.
 
-Stoke’s law ek relationship define karta hai jo liquid mein fall karte object ke velocity ko liquid ki viscosity aur object ke radius ke terms mein relate karta hai.
+---
 
-- Formula for Stoke’s Law:
-  
-\[
-  F_d = 6 \pi \eta r v
-\]
-  
-  Jahan:
-  - F_d is the drag force,
-  - \eta is the coefficient of viscosity,
-  - r is the radius of the sphere,
-  - v is the velocity.
+## Effect of Temperature and Impurity on Surface Tension
 
-## Hydrodynamics
+- **Temperature**: As temperature increases, surface tension decreases because the molecules gain more energy and move more, reducing the force between them.
+- **Impurities**: The addition of impurities (e.g., soap) reduces the surface tension by disrupting the cohesive forces between molecules.
 
-- **Fluid Motion**: Fluid motion ko streamline aur turbulent flow mein divide kiya jata hai. Streamline flow mein particles ek orderly fashion mein move karte hain, jabki turbulent flow mein particles chaotic manner mein move karte hain.
+---
 
-- **Reynold’s Number**: Reynold’s number ek dimensionless quantity hota hai jo fluid flow ke nature ko define karta hai. Agar Reynold’s number low hai, toh flow streamline hota hai, aur agar high hai, toh flow turbulent hota hai.
+# Viscosity and Coefficient of Viscosity
 
-- **Equation of Continuity**: Ye equation fluid ka constant flow rate batati hai.
+## Viscosity
 
-  - Formula for Continuity Equation:
-  
-\[
-  A_1 v_1 = A_2 v_2
-\]
-  
-  Jahan:
-  - A_1 and A_2 are the areas of cross-section at two points,
-  - v_1 and v_2 are the velocities at these points.
+- **Viscosity** is the measure of a fluid’s resistance to flow.
+  - Units: **Poise** (P), **kg/m.s**
+  - It depends on the internal friction between fluid layers and is affected by temperature.
 
-- **Bernoulli’s Theorem**: Ye theorem fluid ke velocity, pressure aur height ke relationship ko define karta hai.
+---
 
-  - Formula for Bernoulli’s Theorem:
-  
-\[
-  P + \frac{1}{2} \rho v^2 + \rho gh = \text{constant}
-\]
-  
-  Jahan:
-  - P is pressure,
-  - \rho is the density of the fluid,
-  - v is the velocity,
-  - g is acceleration due to gravity,
-  - h is the height.
+## Terminal Velocity
 
-### Summary
+- **Terminal Velocity** is the constant velocity reached by a falling object when the force of gravity is balanced by the drag force due to air resistance.
 
-1. **Elasticity**: Material ki ability to return to its original shape after deformation.
-2. **Surface Tension**: Liquid ki surface ki tendency to resist deformation.
-3. **Viscosity**: Fluid ki resistance to flow.
-4. **Hydrodynamics**: Fluid motion and related equations like Bernoulli’s Theorem and Continuity Equation.
+---
 
-Is unit mein properties of matter ko cover kiya gaya hai, jo material ki different properties jaise elasticity, viscosity, aur fluid mechanics ko samjhata hai.
+## Stoke’s Law
+
+- **Stoke’s Law** relates to the motion of small spheres through a viscous fluid.
+  - Formula: **F = 6πηrv**, where:
+    - **F** = Drag force
+    - **η** = Viscosity of the fluid
+    - **r** = Radius of the sphere
+    - **v** = Velocity of the sphere
+
+---
+
+## Effect of Temperature on Viscosity
+
+- As temperature increases, the viscosity of liquids decreases because the molecules move faster, reducing the internal friction.
+- In gases, viscosity increases with temperature due to increased molecular motion.
+
+---
+
+## Application in Hydraulic Systems
+
+- **Viscosity** plays a key role in hydraulic systems as it determines the flow rate of fluids and the efficiency of the system.
+
+---
+
+# Hydrodynamics
+
+## Fluid Motion
+
+- **Fluid Motion** refers to the movement of fluid in response to applied forces.
+  - Types of fluid flow:
+    - **Streamline Flow (Laminar Flow)**: Smooth, orderly flow where fluid particles move in parallel layers.
+    - **Turbulent Flow**: Chaotic flow with irregular fluctuations.
+
+---
+
+## Reynold’s Number
+
+- **Reynold’s Number (Re)** is a dimensionless number used to predict the flow regime of a fluid.
+  - Formula: **Re = (ρvD) / η**, where:
+    - **ρ** = Density of fluid
+    - **v** = Velocity of fluid
+    - **D** = Characteristic length (diameter of pipe)
+    - **η** = Viscosity of fluid
+  - A **Re < 2000** indicates laminar flow, and **Re > 4000** indicates turbulent flow.
+
+---
+
+## Equation of Continuity
+
+- The **Equation of Continuity** states that the mass flow rate of a fluid remains constant throughout a pipe.
+  - Formula: **A₁v₁ = A₂v₂**, where:
+    - **A** = Cross-sectional area of the pipe
+    - **v** = Velocity of the fluid
+
+---
+
+## Bernoulli’s Theorem
+
+- **Bernoulli’s Theorem** states that the total mechanical energy (pressure energy, kinetic energy, and potential energy) in a flowing fluid remains constant.
+  - Formula: **P + ½ρv² + ρgh = Constant**, where:
+    - **P** = Pressure
+    - **ρ** = Density of the fluid
+    - **v** = Velocity
+    - **g** = Gravitational acceleration
+    - **h** = Height
+
+### Applications of Bernoulli’s Theorem:
+- Airplane wings (lift generation)
+- Fluid flow in pipes
+- Velocity measurement using venturi tubes
