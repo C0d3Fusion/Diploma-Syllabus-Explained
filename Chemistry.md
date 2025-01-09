@@ -19,6 +19,8 @@ This repository contains the **Chemistry Syllabus** for **RGPV Diploma First Sem
 ### **[Unit 5: Electro Chemistry](./Chemistry/Unit5.md)**
 - Topics cover oxidation and reduction reactions, Faraday’s laws of electrolysis, applications of electrolysis, electrochemical cells, corrosion, and prevention methods.
 
+### **[Unit 1-5: Bonus Important Question ](./Chemistry/Important.md)**
+
 ## 📥 How to Use
 1. Click on any unit name to view the detailed syllabus for that unit.
 2. Each file will contain the topics and further details for the unit.
