@@ -14,7 +14,7 @@ This repository contains the syllabus for the first year of the Diploma course u
 - **Electromagnetism**: Electric fields, magnetic fields, current, and circuits.
 - **Optics**: Reflection, refraction, lenses, and optical instruments.
 
-### **Mathematics**
+### [**Mathematics**](./Maths.md)
 - **Algebra**: Polynomials, quadratic equations, matrices, determinants.
 - **Calculus**: Limits, differentiation, integration, applications of differentiation.
 - **Trigonometry**: Trigonometric ratios, identities, equations, and applications.
