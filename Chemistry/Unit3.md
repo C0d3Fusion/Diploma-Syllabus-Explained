@@ -115,195 +115,112 @@ An **alloy** is a mixture of two or more metals, or a metal and a non-metal, to 
 
 # General Chemical Composition and Applications
 
-### **Portland Cement and Hardening:**
-- **Chemical Composition:** **CaO**, **SiO₂**, **Al₂O₃**, **Fe₂O₃**
-- **Reaction:** When mixed with water, calcium silicate reacts to form **calcium silicate hydrate** (C-S-H), which hardens the mixture:
-  ```markdown
-  2CaO·SiO₂ + 2H₂O → C-S-H + Ca(OH)₂
+# 1. Portland Cement and Hardening
 
-  Applications:
-
-Used in construction to make concrete, which is durable and strong.
-
-Major material for buildings, roads, and infrastructure projects.
-
-
+## **Applications:**
+- Used in **construction** to make **concrete**, which is durable and strong.
+- Major material for **buildings**, **roads**, and **infrastructure projects**.
 
 ---
 
-2. Glasses
+# 2. Glasses
 
-Composition of Glass:
+## **Composition of Glass:**
+- The basic ingredient is **Silicon Dioxide (SiO₂)**, along with fluxes like **Sodium Carbonate (Na₂CO₃)** and **Calcium Oxide (CaO)**.
 
-The basic ingredient is Silicon Dioxide (SiO₂), along with fluxes like Sodium Carbonate (Na₂CO₃) and Calcium Oxide (CaO).
+## **Production Process:**
+- **Raw materials** (SiO₂, Na₂CO₃, and CaO) are heated to high temperatures to form a **molten glass**.
+- The mixture is then **molded** and **cooled** to solidify into a glass shape.
 
-
-Production Process:
-
-Raw materials (SiO₂, Na₂CO₃, and CaO) are heated to high temperatures to form a molten glass.
-
-The mixture is then molded and cooled to solidify into a glass shape.
-
-
-Applications:
-
-Windows, bottles, optical instruments, and electronics.
-
-
+## **Applications:**
+- **Windows**, **bottles**, **optical instruments**, and **electronics**.
 
 ---
 
-3. Refractory and Composite Materials
+# 3. Refractory and Composite Materials
 
-Refractory Materials:
+## **Refractory Materials:**
+- **Definition:** Materials that can withstand high temperatures without melting or breaking down.
+- **Common Refractory Materials:**
+  - **Alumina (Al₂O₃)**
+  - **Silica (SiO₂)**
+  - **Magnesia (MgO)**
 
-Definition: Materials that can withstand high temperatures without melting or breaking down.
-
-Common Refractory Materials:
-
-Alumina (Al₂O₃)
-
-Silica (SiO₂)
-
-Magnesia (MgO)
-
-
-
-Applications:
-
-Used in furnaces, kilns, and reactors to withstand high heat and chemical corrosion.
-
-
+## **Applications:**
+- Used in **furnaces**, **kilns**, and **reactors** to withstand high heat and chemical corrosion.
 
 ---
 
-Composite Materials:
+## **Composite Materials:**
+- **Definition:** A combination of two or more materials with different properties, designed to improve performance.
+  
+### **Common Types of Composites:**
+- **Fiberglass:** Glass fibers reinforced in a resin matrix.
+- **Carbon Fiber Composites:** Carbon fibers embedded in a polymer matrix for high strength-to-weight ratio.
 
-Definition: A combination of two or more materials with different properties, designed to improve performance.
-
-
-Common Types of Composites:
-
-Fiberglass: Glass fibers reinforced in a resin matrix.
-
-Carbon Fiber Composites: Carbon fibers embedded in a polymer matrix for high strength-to-weight ratio.
-
-
-Applications:
-
-Used in aerospace, automotive, construction, and sports equipment.
-
-
+### **Applications:**
+- Used in **aerospace**, **automotive**, **construction**, and **sports equipment**.
 
 ---
 
-4. Polymers
+# 4. Polymers
 
-Monomer:
+## **Monomer:**
+- A **monomer** is a small molecule that can join with other monomers to form a polymer.
 
-A monomer is a small molecule that can join with other monomers to form a polymer.
+## **Types of Polymers:**
 
-Types of Polymers:
+- **Homopolymer:** Made from only one type of monomer.
+  - **Example:** **Polyethylene (PE)** made from **Ethene (C₂H₄)**:
+    ```markdown
+    nC₂H₄ → (C₂H₄)n
+    ```
 
-Homopolymer: Made from only one type of monomer.
-
-Example: Polyethylene (PE) made from Ethene (C₂H₄):
-
-nC₂H₄ → (C₂H₄)n
-
-
-Copolymers: Made from two or more different types of monomers.
-
-Example: Styrene-butadiene rubber (SBR), made from Styrene (C₆H₅CH=CH₂) and Butadiene (CH₂=CH-CH=CH₂):
-
-nC₆H₅CH=CH₂ + mCH₂=CH-CH=CH₂ → (C₆H₅CH=CH₂)n-(CH₂=CH-CH=CH₂)m
-
-
-
+- **Copolymers:** Made from two or more different types of monomers.
+  - **Example:** **Styrene-butadiene rubber (SBR)**, made from **Styrene (C₆H₅CH=CH₂)** and **Butadiene (CH₂=CH-CH=CH₂)**:
+    ```markdown
+    nC₆H₅CH=CH₂ + mCH₂=CH-CH=CH₂ → (C₆H₅CH=CH₂)n-(CH₂=CH-CH=CH₂)m
+    ```
 
 ---
 
-Degree of Polymerization:
-
-The degree of polymerization (DP) refers to the number of monomer units in a polymer chain. Higher DP means greater molecular weight and strength.
-
-
+## **Degree of Polymerization:**
+- The **degree of polymerization (DP)** refers to the number of monomer units in a polymer chain. Higher DP means greater molecular weight and strength.
 
 ---
 
-Thermoplastics and Thermosetting Plastics
+## **Thermoplastics and Thermosetting Plastics**
 
-Thermoplastics:
+**Polymers**
 
-Can be melted and reshaped multiple times.
+* **Thermoplastics:**
+    * **Polystyrene (PS):**
+        * Monomer: Styrene (C₆H₅CH=CH₂)
+        * Polymerization: nC₆H₅CH=CH₂ → (C₆H₅CH=CH₂)n
+        * Applications: Disposable containers, toys, packaging
+    * **Polytetrafluoroethylene (PTFE):**
+        * Monomer: Tetrafluoroethylene (C₂HF₄)
+        * Polymerization: nC₂HF₄ → (C₂HF₄)n
+        * Applications: Non-stick cookware, insulation
+    * **Polyvinyl Chloride (PVC):**
+        * Applications: Pipes, flooring, credit cards
 
-Examples:
+* **Thermosetting Plastics:**
+    * **Bakelite:**
+        * Monomers: Phenol (C₆H₆OH) and Formaldehyde (CH₂O)
+        * Reaction: C₆H₆OH + CH₂O → (C₆H₆OH-CH₂O)n
+        * Properties: Cannot be remolded after setting
+        * Applications: Electrical insulators, car parts, kitchenware
 
-Polyvinyl Chloride (PVC): Made from Vinyl chloride (C₂H₃Cl):
-
-nC₂H₃Cl → (C₂H₃Cl)n
-
-Polystyrene (PS): Made from Styrene (C₆H₅CH=CH₂):
-
-nC₆H₅CH=CH₂ → (C₆H₅CH=CH₂)n
-
-Polytetrafluoroethylene (PTFE): Made from Tetrafluoroethylene (C₂HF₄):
-
-nC₂HF₄ → (C₂HF₄)n
-
-
-
-Thermosetting Plastics:
-
-Once set, they cannot be remolded.
-
-Examples:
-
-Bakelite: Made from Phenol (C₆H₆OH) and Formaldehyde (CH₂O):
-
-C₆H₆OH + CH₂O → (C₆H₆OH-CH₂O)n
-
-
-
-Applications of Thermoplastics:
-
-PVC: Used in pipes, flooring, and credit cards.
-
-PS: Used in disposable containers, toys, and packaging.
-
-PTFE: Used in non-stick cookware and insulation.
-
-
-Applications of Thermosetting Plastics:
-
-Bakelite: Used in electrical insulators, car parts, and kitchenware.
-
-
-
----
-
-5. Rubber and Vulcanization
-
-Rubber:
-
-Natural rubber is derived from the latex of the rubber tree (Hevea brasiliensis).
-
-Synthetic rubber is made from petroleum-based monomers, such as styrene-butadiene and butyl rubber.
-
-
-Vulcanization of Rubber:
-
-Vulcanization is the process of adding sulfur to rubber to improve its elasticity, strength, and durability.
-
-
-Vulcanization Reaction:
-
-Sulfur forms cross-links between polymer chains, making the rubber more rigid and heat-resistant:
-
--[C₅H₈]n + S → -[C₅H₈]n-S-[C₅H₈]n-
-
-
-Applications of Vulcanized Rubber:
-
-Tires, footwear, gaskets, and hoses.
+* **Rubber and Vulcanization:**
+    * **Natural Rubber:**
+        * Source: Latex of the rubber tree (Hevea brasiliensis)
+    * **Synthetic Rubber:**
+        * Sources: Petroleum-based monomers (e.g., styrene-butadiene, butyl rubber)
+    * **Vulcanization:**
+        * Process: Adding sulfur to rubber
+        * Benefits: Improves elasticity, strength, and durability
+        * Reaction: -[C₅H₈]n + S → -[C₅H₈]n-S-[C₅H₈]n-
+    * **Applications of Vulcanized Rubber:** Tires, footwear, gaskets, hoses
+    * 
 
