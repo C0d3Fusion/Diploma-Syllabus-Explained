@@ -30,6 +30,6 @@ This repository contains the syllabus for the first year of the Diploma course u
 ## 💻 Credits
 This repository was created by **Satyam Yadav**.  
 Connect with him on <a href="https://www.instagram.com/_satyam.ydv?igsh=bWF2Z2p1dGFxY2x5">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25" height="25">
 </a> [Instagram](https://www.instagram.com/_satyam.ydv?igsh=bWF2Z2p1dGFxY2x5).  
 Special thanks to Google and GPT-4 for providing valuable resources and tools.
